@@ -1,0 +1,54 @@
+2018-03-09 18:00:21,521---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 18:00:21,704---->BasePage - INFO - Had type ' donglin ' in inputBox
+2018-03-09 18:00:21,824---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 18:00:21,867---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 18:00:25,393---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:00:25,626---->BasePage - INFO - Current page title is 首页
+2018-03-09 18:00:26,193---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:00:28,214---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:00:50,900---->BasePage - INFO - Sleep for 20 seconds
+2018-03-09 18:00:50,941---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 18:00:51,009---->BasePage - INFO - Had type ' liusilu ' in inputBox
+2018-03-09 18:00:51,098---->BasePage - INFO - Had type ' kbop9658 ' in inputBox
+2018-03-09 18:00:51,123---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 18:00:53,809---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:00:53,818---->BasePage - INFO - Current page title is 首页
+2018-03-09 18:00:54,483---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:00:56,500---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:01:16,813---->BasePage - INFO - Sleep for 20 seconds
+2018-03-09 18:01:16,847---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 18:01:17,021---->BasePage - INFO - Had type ' liuyimeng ' in inputBox
+2018-03-09 18:01:17,160---->BasePage - INFO - Had type ' rwvj3736 ' in inputBox
+2018-03-09 18:01:17,198---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 18:01:24,071---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:01:24,078---->BasePage - INFO - Current page title is 首页
+2018-03-09 18:01:24,575---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:01:26,593---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:01:46,909---->BasePage - INFO - Sleep for 20 seconds
+2018-03-09 18:01:46,946---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 18:01:47,151---->BasePage - INFO - Had type ' zhouxiaogang ' in inputBox
+2018-03-09 18:01:47,244---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 18:01:47,281---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 18:01:50,022---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:01:50,032---->BasePage - INFO - Current page title is 首页
+2018-03-09 18:01:50,510---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:01:52,529---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:02:13,233---->BasePage - INFO - Sleep for 20 seconds
+2018-03-09 18:02:13,257---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 18:02:13,362---->BasePage - INFO - Had type ' ruanshuai ' in inputBox
+2018-03-09 18:02:13,464---->BasePage - INFO - Had type ' RS316578ab ' in inputBox
+2018-03-09 18:02:13,503---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 18:02:17,001---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:02:17,010---->BasePage - INFO - Current page title is 首页
+2018-03-09 18:02:17,684---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:02:19,701---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:02:45,558---->BasePage - INFO - Sleep for 20 seconds
+2018-03-09 18:02:45,579---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 18:02:45,655---->BasePage - INFO - Had type ' gaoxi ' in inputBox
+2018-03-09 18:02:45,740---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 18:02:45,762---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 18:02:49,898---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:02:49,905---->BasePage - INFO - Current page title is 首页
+2018-03-09 18:02:50,572---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:02:52,593---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:03:15,208---->BasePage - INFO - Sleep for 20 seconds

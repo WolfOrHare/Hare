@@ -1,0 +1,7 @@
+2018-03-09 17:06:13,361---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 17:06:13,469---->BasePage - INFO - Had type ' donglin ' in inputBox
+2018-03-09 17:06:13,564---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 17:06:13,597---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 17:06:16,637---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 17:06:16,644---->BasePage - INFO - Current page title is 首页
+2018-03-09 17:06:17,312---->BasePage - INFO - Screenshot of success!

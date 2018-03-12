@@ -1,0 +1,99 @@
+2018-03-09 20:02:03,409---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 20:02:04,090---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 20:02:04,694---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 20:02:04,725---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 20:02:04,820---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 20:02:04,959---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
+2018-03-09 20:02:05,007---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 20:02:15,336---->BasePage - INFO - Sleep for 10 seconds
+2018-03-09 20:02:15,345---->BasePage - INFO - Current page title is 新华社音像系统
+2018-03-09 20:02:15,352---->login - ERROR - sorry!Open Homepage fail 
+2018-03-09 20:02:15,352---->login - ERROR - sorry!Open Homepage fail 
+2018-03-09 20:02:17,284---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 20:02:17,898---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 20:02:18,584---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 20:02:18,624---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 20:02:18,745---->BasePage - INFO - Had type ' donglin ' in inputBox
+2018-03-09 20:02:18,883---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 20:02:18,914---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 20:02:24,323---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:24,336---->BasePage - INFO - Current page title is 首页
+2018-03-09 20:02:25,120---->BasePage - INFO - Screenshot of success!
+2018-03-09 20:02:25,120---->login - INFO - Open homepage is OK!
+2018-03-09 20:02:25,120---->login - INFO - Open homepage is OK!
+2018-03-09 20:02:26,133---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:27,503---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:27,520---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 20:02:27,636---->BasePage - INFO - Had type ' liusilu ' in inputBox
+2018-03-09 20:02:27,754---->BasePage - INFO - Had type ' kbop9658 ' in inputBox
+2018-03-09 20:02:27,776---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 20:02:29,625---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:29,634---->BasePage - INFO - Current page title is 首页
+2018-03-09 20:02:30,192---->BasePage - INFO - Screenshot of success!
+2018-03-09 20:02:30,192---->login - INFO - Open homepage is OK!
+2018-03-09 20:02:30,192---->login - INFO - Open homepage is OK!
+2018-03-09 20:02:31,202---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:34,312---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:34,338---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 20:02:34,408---->BasePage - INFO - Had type ' liuyimeng ' in inputBox
+2018-03-09 20:02:34,623---->BasePage - INFO - Had type ' rwvj3736 ' in inputBox
+2018-03-09 20:02:34,646---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 20:02:36,463---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:36,467---->BasePage - INFO - Current page title is 首页
+2018-03-09 20:02:37,060---->BasePage - INFO - Screenshot of success!
+2018-03-09 20:02:37,061---->login - INFO - Open homepage is OK!
+2018-03-09 20:02:37,061---->login - INFO - Open homepage is OK!
+2018-03-09 20:02:38,077---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:39,406---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:39,423---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 20:02:39,567---->BasePage - INFO - Had type ' zhouxiaogang ' in inputBox
+2018-03-09 20:02:39,716---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 20:02:39,741---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 20:02:41,274---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:41,277---->login - ERROR - sorry!Open Homepage fail Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 20:02:41,277---->login - ERROR - sorry!Open Homepage fail Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 20:02:43,343---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 20:02:43,881---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 20:02:44,490---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 20:02:46,040---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 20:02:46,046---->BasePage - INFO - Current page title is 新华社音像系统
+2018-03-09 20:02:54,074---->BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='mymam_link']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 20:02:55,651---->BasePage - INFO - Screenshot of success!
+2018-03-09 20:02:57,643---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 20:02:58,257---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 20:02:58,874---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 20:02:58,923---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 20:02:59,025---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 20:02:59,101---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 20:02:59,212---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
+2018-03-09 20:02:59,239---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 20:03:07,556---->BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='mymam_link']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 20:03:08,820---->BasePage - INFO - Screenshot of success!
+2018-03-09 20:03:16,851---->BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"AssignTaskListView"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 20:03:18,038---->BasePage - INFO - Screenshot of success!
+2018-03-09 20:03:18,038---->Personal - ERROR - catalog_assign_click fail
+2018-03-09 20:03:20,048---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 20:03:26,747---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 20:03:27,405---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 20:03:27,445---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 20:03:27,574---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 20:03:27,684---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 20:03:27,798---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
+2018-03-09 20:03:27,828---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 

@@ -1,0 +1,42 @@
+2018-03-08 15:30:40,066---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-08 15:30:45,385---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-08 15:30:45,631---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-08 15:30:45,661---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-08 15:30:45,777---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 15:30:45,849---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 15:30:45,878---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-08 15:30:55,975---->BasePage - INFO - Had find the element ' 个人中心 ' successful by xpath via value: //*[@id='mymam_link'] 
+2018-03-08 15:30:59,154---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 15:30:59,195---->BasePage - INFO - Had find the element ' 我的编目分配任务 ' successful by id via value: AssignTaskListView 
+2018-03-08 15:31:02,252---->BasePage - INFO - Sleep for 3 seconds
+2018-03-08 15:31:02,282---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-08 15:31:02,338---->BasePage - INFO - Clear text in input box before typing.
+2018-03-08 15:31:02,366---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-08 15:31:02,394---->BasePage - INFO - Clear text in input box before typing.
+2018-03-08 15:31:02,409---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-08 15:31:02,525---->BasePage - INFO - Had type ' 1000-03-06 ' in inputBox
+2018-03-08 15:31:02,542---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-08 15:31:02,637---->BasePage - INFO - Had type ' 2018-03-06 ' in inputBox
+2018-03-08 15:31:02,669---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryBtn'] 
+2018-03-08 15:31:12,732---->BasePage - INFO - Sleep for 10 seconds
+2018-03-08 15:31:12,765---->BasePage - INFO - Had find the element ' 5
+10
+15
+20
+30
+50
+100
+200 ' successful by id via value: pageRp 
+2018-03-08 15:31:14,832---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 15:31:14,864---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='AssignTaskListView']/div/div/div/input[@id='name'] 
+2018-03-08 15:31:14,995---->BasePage - INFO - Had type ' test111 ' in inputBox
+2018-03-08 15:31:15,021---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryBtn'] 
+2018-03-08 15:31:17,081---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 15:31:17,104---->BasePage - INFO - Had find the element ' 共找到1条记录 ' successful by id via value: findtext 
+2018-03-08 15:31:20,115---->BasePage - INFO - Sleep for 3 seconds
+2018-03-08 15:31:20,145---->BasePage - INFO - Had find the element ' test111 ' successful by xpath via value: //*/table[@id='CatalogTask']/tbody/tr[1]/td[3]/a/span 
+2018-03-08 15:31:20,172---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*/table[@id='CatalogTask']/tbody/tr/td[1]/input[@type='checkbox'] 
+2018-03-08 15:31:22,218---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 15:31:22,248---->BasePage - INFO - Had find the element '  分配 ' successful by id via value: asign 
+2018-03-08 15:31:22,453---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='assign-dialog']/table/tbody/tr[2]/td[3]/input[@type='radio'] 
+2018-03-08 15:31:24,522---->BasePage - INFO - Sleep for 2 seconds

@@ -1,0 +1,22 @@
+2018-03-08 17:06:25,320---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-08 17:06:29,019---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-08 17:06:29,243---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-08 17:06:29,271---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-08 17:06:29,364---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 17:06:29,434---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 17:06:29,462---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-08 17:06:31,573---->BasePage - INFO - Had find the element ' 个人中心 ' successful by xpath via value: //*[@id='mymam_link'] 
+2018-03-08 17:06:35,250---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 17:06:35,286---->BasePage - INFO - Had find the element ' 我的编目分配任务 ' successful by id via value: AssignTaskListView 
+2018-03-08 17:06:38,344---->BasePage - INFO - Sleep for 3 seconds
+2018-03-08 17:06:39,620---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-08 17:06:39,667---->BasePage - INFO - Clear text in input box before typing.
+2018-03-08 17:06:39,694---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-08 17:06:39,720---->BasePage - INFO - Clear text in input box before typing.
+2018-03-08 17:06:39,737---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-08 17:06:39,837---->BasePage - INFO - Had type ' 1000-03-06 ' in inputBox
+2018-03-08 17:06:39,851---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-08 17:06:39,967---->BasePage - INFO - Had type ' 2018-03-06 ' in inputBox
+2018-03-08 17:06:40,007---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryBtn'] 
+2018-03-08 17:06:50,068---->BasePage - INFO - Sleep for 10 seconds
+2018-03-08 17:06:50,099---->BasePage - INFO - Had find the element '  ' successful by id via value: pageRp 

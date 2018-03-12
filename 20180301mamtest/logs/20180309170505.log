@@ -1,0 +1,11 @@
+2018-03-09 17:05:07,164---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 17:05:12,587---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 17:05:12,857---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 17:05:12,915---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 17:05:13,039---->BasePage - INFO - Had type ' donglin ' in inputBox
+2018-03-09 17:05:13,135---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 17:05:13,161---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 17:05:16,532---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 17:05:16,541---->BasePage - INFO - Current page title is 首页
+2018-03-09 17:05:17,215---->BasePage - INFO - Screenshot of success!
+2018-03-09 17:05:17,216---->login - INFO - Open homepage is OK!

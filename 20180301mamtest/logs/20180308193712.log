@@ -1,0 +1,7 @@
+2018-03-08 19:37:14,644---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-08 19:37:15,608---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-08 19:37:15,882---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-08 19:37:15,913---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-08 19:37:16,013---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 19:37:16,100---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 19:37:16,155---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 

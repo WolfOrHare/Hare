@@ -1,0 +1,90 @@
+2018-03-09 21:17:49,152---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 21:18:16,952---->BrowserEngine - INFO - Open http://xnamam.video.xinhua-news.cn/mamplatform Seccess!
+2018-03-09 21:18:17,521---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 21:18:17,556---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 21:18:17,644---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 21:18:17,749---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
+2018-03-09 21:18:17,771---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 21:18:31,982---->BasePage - INFO - Sleep for 10 seconds
+2018-03-09 21:18:31,991---->BasePage - INFO - Current page title is 首页
+2018-03-09 21:18:32,690---->BasePage - INFO - Screenshot of success!
+2018-03-09 21:18:32,690---->login - INFO - Open homepage is OK!
+2018-03-09 21:18:32,690---->login - INFO - Open homepage is OK!
+2018-03-09 21:18:34,379---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 21:18:42,566---->BrowserEngine - INFO - Open http://xnamam.video.xinhua-news.cn/mamplatform Seccess!
+2018-03-09 21:18:43,163---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 21:18:43,208---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 21:18:44,288---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 21:18:46,026---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 21:18:48,785---->BrowserEngine - INFO - Open http://xnamam.video.xinhua-news.cn/mamplatform Seccess!
+2018-03-09 21:18:49,392---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 21:18:52,226---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 21:18:52,236---->BasePage - INFO - Current page title is 首页
+2018-03-09 21:18:52,273---->BasePage - INFO - Had find the element ' 个人中心 ' successful by xpath via value: //*[@id='mymam_link'] 
+2018-03-09 21:19:07,132---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:08,133---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 21:19:08,144---->BasePage - INFO - Current page title is 个人中心
+2018-03-09 21:19:09,441---->BasePage - INFO - Current page title is 管理中心
+2018-03-09 21:19:11,194---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 21:19:13,792---->BrowserEngine - INFO - Open http://xnamam.video.xinhua-news.cn/mamplatform Seccess!
+2018-03-09 21:19:14,395---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 21:19:14,428---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 21:19:14,502---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 21:19:14,571---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 21:19:14,651---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
+2018-03-09 21:19:14,687---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 21:19:16,376---->BasePage - INFO - Had find the element ' 个人中心 ' successful by xpath via value: //*[@id='mymam_link'] 
+2018-03-09 21:19:20,404---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:20,435---->BasePage - INFO - Had find the element ' 我的编目分配任务 ' successful by id via value: AssignTaskListView 
+2018-03-09 21:19:23,492---->BasePage - INFO - Sleep for 3 seconds
+2018-03-09 21:19:23,523---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-09 21:19:23,554---->BasePage - INFO - Clear text in input box before typing.
+2018-03-09 21:19:23,585---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-09 21:19:23,630---->BasePage - INFO - Clear text in input box before typing.
+2018-03-09 21:19:23,644---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-09 21:19:23,736---->BasePage - INFO - Had type ' 1000-03-06 ' in inputBox
+2018-03-09 21:19:23,753---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-09 21:19:23,844---->BasePage - INFO - Had type ' 2018-03-06 ' in inputBox
+2018-03-09 21:19:23,873---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryBtn'] 
+2018-03-09 21:19:33,919---->BasePage - INFO - Sleep for 10 seconds
+2018-03-09 21:19:33,951---->BasePage - INFO - Had find the element ' 5
+10
+15
+20
+30
+50
+100
+200 ' successful by id via value: pageRp 
+2018-03-09 21:19:36,017---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:36,042---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='AssignTaskListView']/div/div/div/input[@id='name'] 
+2018-03-09 21:19:36,120---->BasePage - INFO - Had type ' test111 ' in inputBox
+2018-03-09 21:19:36,148---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryBtn'] 
+2018-03-09 21:19:38,211---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:38,242---->BasePage - INFO - Had find the element ' 共找到1028条记录 ' successful by id via value: findtext 
+2018-03-09 21:19:41,249---->BasePage - INFO - Sleep for 3 seconds
+2018-03-09 21:19:41,282---->BasePage - INFO - Had find the element ' test111 ' successful by xpath via value: //*/table[@id='CatalogTask']/tbody/tr[1]/td[3]/a/span 
+2018-03-09 21:19:41,310---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*/table[@id='CatalogTask']/tbody/tr/td[1]/input[@type='checkbox'] 
+2018-03-09 21:19:43,351---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:43,382---->BasePage - INFO - Had find the element '  分配 ' successful by id via value: asign 
+2018-03-09 21:19:45,426---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:45,455---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='assign-dialog']/table/tbody/tr[2]/td[3]/input[@type='radio'] 
+2018-03-09 21:19:47,508---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:47,546---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*/div[@id='s2id_autogen1'] 
+2018-03-09 21:19:49,608---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 21:19:49,644---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='s2id_autogen2_search'] 
+2018-03-09 21:19:49,704---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 21:19:57,747---->BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*/div[@id='select2-drop']/ul[@id='select2-results-2']/li/div[@id='select2-result-label-38']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 21:19:58,422---->BasePage - INFO - Screenshot of success!
+2018-03-09 21:19:58,422---->Personal - ERROR - catalog_assign_click fail
+2018-03-09 21:20:00,155---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 21:20:07,691---->BrowserEngine - INFO - Open http://xnamam.video.xinhua-news.cn/mamplatform Seccess!
+2018-03-09 21:20:08,300---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 21:20:08,327---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 21:20:08,402---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 21:20:08,468---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 21:20:08,562---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
+2018-03-09 21:20:08,590---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 21:20:09,749---->BasePage - INFO - Had find the element ' 个人中心 ' successful by xpath via value: //*[@id='mymam_link'] 

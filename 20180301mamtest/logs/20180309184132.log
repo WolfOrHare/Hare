@@ -1,0 +1,24 @@
+2018-03-09 18:41:33,877---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 18:41:34,512---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 18:41:35,190---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 18:41:35,259---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 18:41:35,398---->BasePage - INFO - Had type ' donglin ' in inputBox
+2018-03-09 18:41:35,537---->BasePage - INFO - Had type ' 123000 ' in inputBox
+2018-03-09 18:41:35,572---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 18:41:44,827---->BasePage - INFO - Sleep for 1 seconds
+2018-03-09 18:41:44,834---->BasePage - INFO - Current page title is 首页
+2018-03-09 18:41:45,642---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:41:45,642---->LoginMAM - INFO - Open homepage is OK!
+2018-03-09 18:41:45,674---->BasePage - INFO - Had find the element ' 个人中心 ' successful by xpath via value: //*[@id='mymam_link'] 
+2018-03-09 18:41:54,174---->BasePage - INFO - Sleep for 2 seconds
+2018-03-09 18:42:02,232---->BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"AssignTaskListView"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 18:42:02,677---->BasePage - INFO - Screenshot of success!
+2018-03-09 18:42:02,677---->Personal - ERROR - catalog_assign_click fail
+2018-03-09 18:42:10,693---->BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"createdbegin"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-09 18:42:11,124---->BasePage - INFO - Screenshot of success!

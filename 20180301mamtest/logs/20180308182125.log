@@ -1,0 +1,50 @@
+2018-03-08 18:21:27,389---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-08 18:21:31,945---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-08 18:21:32,187---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-08 18:21:32,225---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-08 18:21:32,320---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 18:21:32,401---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-08 18:21:32,443---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-08 18:21:33,925---->BasePage - INFO - Had find the element ' 个人中心 ' successful by xpath via value: //*[@id='mymam_link'] 
+2018-03-08 18:21:37,241---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 18:21:37,302---->BasePage - INFO - Had find the element ' 我的编目分配任务 ' successful by id via value: AssignTaskListView 
+2018-03-08 18:21:40,388---->BasePage - INFO - Sleep for 3 seconds
+2018-03-08 18:21:40,429---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-08 18:21:40,472---->BasePage - INFO - Clear text in input box before typing.
+2018-03-08 18:21:40,499---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-08 18:21:40,542---->BasePage - INFO - Clear text in input box before typing.
+2018-03-08 18:21:40,564---->BasePage - INFO - Had find the element '  ' successful by id via value: createdbegin 
+2018-03-08 18:21:40,702---->BasePage - INFO - Had type ' 1000-03-06 ' in inputBox
+2018-03-08 18:21:40,722---->BasePage - INFO - Had find the element '  ' successful by id via value: createdend 
+2018-03-08 18:21:40,842---->BasePage - INFO - Had type ' 2018-03-06 ' in inputBox
+2018-03-08 18:21:40,883---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryBtn'] 
+2018-03-08 18:21:50,961---->BasePage - INFO - Sleep for 10 seconds
+2018-03-08 18:21:50,989---->BasePage - INFO - Had find the element ' 5
+10
+15
+20
+30
+50
+100
+200 ' successful by id via value: pageRp 
+2018-03-08 18:21:53,064---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 18:21:53,099---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='AssignTaskListView']/div/div/div/input[@id='name'] 
+2018-03-08 18:21:53,231---->BasePage - INFO - Had type ' test111 ' in inputBox
+2018-03-08 18:21:53,249---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='queryBtn'] 
+2018-03-08 18:21:55,299---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 18:21:55,337---->BasePage - INFO - Had find the element ' 共找到1条记录 ' successful by id via value: findtext 
+2018-03-08 18:21:58,349---->BasePage - INFO - Sleep for 3 seconds
+2018-03-08 18:21:58,382---->BasePage - INFO - Had find the element ' test111 ' successful by xpath via value: //*/table[@id='CatalogTask']/tbody/tr[1]/td[3]/a/span 
+2018-03-08 18:21:58,409---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*/table[@id='CatalogTask']/tbody/tr/td[1]/input[@type='checkbox'] 
+2018-03-08 18:22:00,475---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 18:22:00,527---->BasePage - INFO - Had find the element '  分配 ' successful by id via value: asign 
+2018-03-08 18:22:02,570---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 18:22:02,600---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='assign-dialog']/table/tbody/tr[2]/td[3]/input[@type='radio'] 
+2018-03-08 18:22:04,662---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 18:22:04,698---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*/div[@id='s2id_autogen1'] 
+2018-03-08 18:22:06,767---->BasePage - INFO - Sleep for 2 seconds
+2018-03-08 18:22:14,832---->BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*/input[@id='s2id_autogen94_search']"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2),platform=Mac OS X 10.12.6 x86_64)
+
+2018-03-08 18:22:15,505---->BasePage - INFO - Screenshot of success!

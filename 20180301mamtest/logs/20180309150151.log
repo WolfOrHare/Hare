@@ -1,0 +1,10 @@
+2018-03-09 15:01:53,406---->BrowserEngine - INFO - Seccess Open Chrome! Chrome
+2018-03-09 15:01:54,008---->BrowserEngine - INFO - Open http://192.168.8.191:8080/mamplatform Seccess!
+2018-03-09 15:01:54,248---->BrowserEngine - INFO - Implicitly wait 8 seconds！
+2018-03-09 15:01:54,285---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
+2018-03-09 15:01:54,361---->BasePage - INFO - Had type ' mam ' in inputBox
+2018-03-09 15:01:54,513---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
+2018-03-09 15:01:54,538---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
+2018-03-09 15:02:08,590---->BasePage - INFO - Sleep for 10 seconds
+2018-03-09 15:02:08,595---->BasePage - INFO - Current page title is 新华社音像系统
+2018-03-09 15:02:08,599---->login - ERROR - sorry!Open Homepage fail 
