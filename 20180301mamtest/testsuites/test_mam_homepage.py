@@ -15,7 +15,9 @@ class Home(unittest.TestCase):
     def tearDownClass(cls):
         cls.driver.quit()
 
+    # 个人中心页面测试实例
     def test_personel_manager(self):
+        #调用登陆模块，输入用户名／密码，完成登陆操作
         self.loginpage = LoginPage(self.driver)
         self.driver.find_element_by_xpath("//*[@id='username']").send_keys("mam")
         self.driver.find_element_by_xpath("//*[@type='password']").send_keys("qwe123!@#2018")

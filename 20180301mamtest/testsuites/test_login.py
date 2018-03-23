@@ -17,6 +17,8 @@ class login(unittest.TestCase):
         cls.driver.quit()
 
 
+    # 该方法用来读取csv文件中的内容
+    # 可以提取为一个常用的参数化类出来，该部分代码的完整实现被写到了function文件夹里的login里了。
     def open_csv(self,colnameindex=0,by_index=0):
 
         dir = os.path.dirname(os.path.abspath('.')) + '/parameters/'
@@ -24,7 +26,7 @@ class login(unittest.TestCase):
 
         login_parameter = csv.DictReader(open(login_pp, 'r'))
         dict_data = []
-
+        # 格式化字典内容
         for lines in login_parameter:
             if login_parameter.line_num == 1:
                 continue
@@ -34,10 +36,10 @@ class login(unittest.TestCase):
         row_num = len(dict_data)
         print(row_num)
         i = 0
+        # 获取到所有的字典内容
         while(i < row_num):
             print("This is -->"+str(i)+"-->row-->"+str(dict_data[i]))
             i += 1
-
     def test_login(self):
 
         loginpage = LoginPage(self.driver)

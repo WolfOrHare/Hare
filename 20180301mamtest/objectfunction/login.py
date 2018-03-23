@@ -21,13 +21,13 @@ class LoginMAM(LoginPage):
         loginpage.type_password("mam")
         loginpage.type_password("qwe123!@#2018")
         loginpage.login_click()
-
+        # 参数化登陆用户名密码
         # dir = os.path.dirname(os.path.abspath('.')) + '/parameters/'
         # login_pp = dir + 'login_parameter.csv'
-        #
+        #读取csv并将内容写到字典中
         # login_parameter = csv.DictReader(open(login_pp, 'r'))
         # dict_data = []
-        #
+        #格式化字典内容
         # for lines in login_parameter:
         #     if login_parameter.line_num == 1:
         #         continue
@@ -36,6 +36,8 @@ class LoginMAM(LoginPage):
         #
         # row_num = len(dict_data)
         # print(row_num)
+        #读取每组用户名密码，完成打开个人中心，完成任务分配操作。并点击退出这一过程
+        #后续考虑增加多进程处理
         # i = 0
         # while (i < row_num):
         #     loginpage.type_user(dict_data[i]['\ufeffUSERID'])

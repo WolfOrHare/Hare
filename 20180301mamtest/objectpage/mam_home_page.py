@@ -4,6 +4,7 @@ class MAMHomePage(BasePage):
 
     '''
         1、首页中，资源分类id：condition-tree-link，下拉列表如何获取
+        2、chrome浏览器会出现浏览器未完全打开，导致元素无法获取的问题
     '''
     personal_center="xpath=>//*[@id='mymam_link']"
     manager_center="xpath=>//*[@id='mam_manager_link']"

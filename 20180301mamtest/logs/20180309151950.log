@@ -1,4 +1,0 @@
-2018-03-09 15:19:54,199---->BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='username'] 
-2018-03-09 15:19:54,302---->BasePage - INFO - Had type ' mam ' in inputBox
-2018-03-09 15:19:54,455---->BasePage - INFO - Had type ' qwe123!@#2018 ' in inputBox
-2018-03-09 15:19:54,512---->BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*/button[@type='submit'] 
