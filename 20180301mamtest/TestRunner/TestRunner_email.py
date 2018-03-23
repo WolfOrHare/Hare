@@ -1,6 +1,6 @@
 # coding=utf-8
 '''
-Created on 2016-7-26
+Created on 2018-3-11
 @author: Jennifer
 Project:整合自动发邮件功能，执行测试用例生成最新测试报告，取最新的测试报告，发送最新测试报告
 问题，邮件始终不能显示html：将电脑时间改为北京时间即可
@@ -25,7 +25,7 @@ def new_file(test_dir):
 
 if __name__ == '__main__':
     print('=====AutoTest Start======')
-    # 1.执行测试用例，生成最新的测试用例
+    # 执行测试用例，生成最新的测试用例
     # 指定测试用例为当前文件夹下的test_case目录
     # 如果用/可以不用r
     #    test_dir='./test_case'

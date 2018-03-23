@@ -6,7 +6,7 @@ Project:整合自动发邮件功能，执行测试用例生成最新测试报告
 问题，邮件始终不能显示html：将电脑时间改为北京时间即可
 '''
 
-import os
+import os,configparser
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -17,23 +17,29 @@ class ReportEmail(object):
     # 定义：发送邮件，发送最新测试报告html
     def send_email(newfile,sendfrom_user,sendfrom_password,sendto_user):
         # 打开文件
-        f = open(newfile, 'rb')
-
+        report_file = open(newfile, 'rb')
         # 读取文件内容
-        mail_body = f.read()
-
+        mail_body = report_file.read()
         # 关闭文件
-        f.close()
+        report_file.close()
+
+        # 读取配置文件，获取发送邮箱的用户名密码
+        conf_file = os.path.dirname(os.path.abspath('.'))+'/config/'+'config.ini'
+        conf = configparser.ConfigParser()
+        conf.read(conf_file)
+
+
         # 发送邮箱服务器
         smtpserver = 'smtpcom.263xmail.com'
         # 发送邮箱用户名/密码
-        user = sendfrom_user
-        password = sendfrom_password
+        user = conf.get('EmailUser', 'username')
+        password = conf.get('EmailPassword', 'password')
         # 发送邮箱
-        sender = sendfrom_user
+        ##### sender：还没有实现发送给多个目标邮箱，需要进行字典内容分割，使用split函数切割内容就行
+        sender = conf.get('SendToEmail','ToEmail')
         # 接收邮箱：多个接收邮箱，单个收件人的话，直接是receiver='XXX@126.com'
         # receiver = ['yangwang@dayang-itech.com', 'XXX@126.com', 'XXX@doov.com.cn']
-        receiver = sendto_user
+        receiver = sender
         # 发送邮件主题
         subject = '自动定时发送测试报告201801'
 
@@ -66,7 +72,7 @@ class ReportEmail(object):
         # 要加上msg['From']这句话，否则会报554的错误。
         # 要在163有限设置授权码（即客户端的密码），否则会报535
         # msg['From'] = 'yangwang@dayang-itech.com <yangwang@dayang-itech.com>'
-        msg['From'] = sendfrom_user + ' ' + '<' + sendfrom_password + '>'
+        msg['From'] = user + ' ' + '<' + password + '>'
         #    msg['To'] = 'XXX@doov.com.cn'
         # 多个收件人
         msg['To'] = ";".join(receiver)
