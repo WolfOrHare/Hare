@@ -18,8 +18,9 @@ class TestRegister(BaseSeleniumTestCase):
             .register(self.mobile, self.password,self.nickname)\
             .get_current_page_url()
         time.sleep(1.5)
-        print(after_register_url)
 
+
+        # 断言获取的地址是否与配置一致
         self.assertEqual(after_register_url, settings.WEB_TEST_BASE_URL + '/index')
 
         # 校验注册成功后页面title

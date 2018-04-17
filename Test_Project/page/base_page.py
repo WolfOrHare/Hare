@@ -41,7 +41,7 @@ class BasePage(object):
     # 获取待测试的url
     base_url = settings.WEB_TEST_BASE_URL
 
-    # 初始化数据，如果
+    # 初始化数据，
     def __init__(self, selenium, url_params=None):
         if not url_params:
             url_params = []
@@ -53,12 +53,13 @@ class BasePage(object):
         logger.debug("Goto page: [{}]".format(self.get_page_url()))
         return self._selenium_get_url(self.get_page_url())
 
+    # 刷新
     def refresh(self):
         self.selenium.refresh()
-
+    # 返回
     def navigate_back(self):
         self.selenium.back()
-
+    # 打开url
     def _selenium_get_url(self, url):
         try:
             self.selenium.get('about:blank')
@@ -68,13 +69,19 @@ class BasePage(object):
             raise ex
         return self
 
+    # 目的是为了拼接地址
     def get_page_url(self):
         if not self.url:
             raise RuntimeError("no url been set")
         return self._get_url(self.url)
 
     def _get_url(self, url):
+        # *self.url_params接受 元组类型 参数
+        # **self接受字典参数
+        # 一起用那*self必须写在前边，否则报错
         format_url = url.format(*self.url_params)
+
+        # 返回配置地址，格式化地址
         return "{0}{1}".format(self.base_url, format_url)
 
     def get_current_page_url(self):

@@ -16,8 +16,6 @@ def add_date():
         print("添加有记录调用删除")
         delete_date()
 
-
-
 def update_date():
     sql = """update send_sms_code set id = 987654321"""
     if conn_db.execute("""select * from send_sms_code""") is not None:

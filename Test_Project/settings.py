@@ -10,11 +10,7 @@ requests
 ENV = 'test'
 
 # test url test config
-WEB_TEST_BASE_URL = "https://passport.baidu.com/v2/?" \
-                    "reg&tt=1523881491702&" \
-                    "overseas=undefined&" \
-                    "gid=6CFCF86-E7E7-4BE9-9A6F-68A2723CD84C&" \
-                    "tpl=mn&u=https%3A%2F%2Fwww.baidu.com%2Findex.php%3Ftn%3Dmonline_3_dg"
+WEB_TEST_BASE_URL = "https://passport.baidu.com/v2/?reg&tt=1523881491702&overseas=undefined&gid=6CFCF86-E7E7-4BE9-9A6F-68A2723CD84C&tpl=mn&u=https%3A%2F%2Fwww.baidu.com%2Findex.php%3Ftn%3Dmonline_3_dg"
 
 # global waiting time config
 WAIT_TIME = 10

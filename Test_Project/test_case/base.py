@@ -11,7 +11,7 @@ class BaseSeleniumTestCase(TestCase):
     # 获取浏览器driver驱动
     def get_web_driver(self):
         driver = webdriver.Firefox(executable_path=settings.GECKODRIVER_PATH)
-            # if settings.ENV == "dev" else webdriver.PhantomJS()
+            # if settings.ENV == "test" else webdriver.PhantomJS()
         driver.maximize_window()
         return driver
 
