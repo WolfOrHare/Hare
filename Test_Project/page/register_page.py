@@ -74,7 +74,7 @@ class RegisterPage(BasePage):
 
     def input_new_password(self,password):
         # 输入注册时密码
-        element = self.find_element_by_id('r_pwd')
+        element = self.find_element_by_id('TANGRAM__PSP_3__password')
         element.clear()
         element.send_keys(password)
         return self

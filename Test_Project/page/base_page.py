@@ -55,7 +55,7 @@ class BasePage(object):
 
     # 刷新
     def refresh(self):
-        
+
         self.selenium.refresh()
     # 返回
     def navigate_back(self):

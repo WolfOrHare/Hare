@@ -20,4 +20,4 @@ requests==2.18.4
 # exec(compile(open(SETTING_LOCAL_DIR).read()),SETTING_LOCAL_DIR,'exec')
 
 4、百度注册获取验证码前，有安全验证的问题，需要解决，看图像识别看是否有解。（待修复）
-5、
+5、给数据库插条记录，跳过验证码问题

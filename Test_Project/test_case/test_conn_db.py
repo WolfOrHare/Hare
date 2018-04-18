@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 '''
-    闲！！试试数据库链接是否好用
+    闲！！试试数据库链接是否好用，顺便给数据库插条记录用来规避验证码的问题
 '''
 from utilities import conn_db
 def add_date():
@@ -10,14 +10,14 @@ def add_date():
         update_date()
 
     else:
-        sql = """INSERT INTO send_sms_code (id,mobile,username,password) VALUES ('123456789','13752096930',123,123)"""
+        sql = """INSERT INTO send_sms_code (id,mobile,username,password,code) VALUES ('33123456789','13100102034',123,123,123)"""
         conn_db.execute(sql)
         print('insert is ok---> %s' % conn_db.execute("""select * from send_sms_code"""))
         print("添加有记录调用删除")
         delete_date()
 
 def update_date():
-    sql = """update send_sms_code set id = 987654321"""
+    sql = """update send_sms_code set id = 987654321 where id = 123456789"""
     if conn_db.execute("""select * from send_sms_code""") is not None:
         update = conn_db.execute(sql)
         print('update is ok---> %s ' % update)

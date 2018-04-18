@@ -1,0 +1,131 @@
+1524019869821	geckodriver	INFO	geckodriver 0.20.0
+1524019869832	geckodriver	INFO	Listening on 127.0.0.1:60021
+1524019869851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.jejekeGGLCRw"
+1524019870596	Marionette	INFO	Enabled via --marionette
+2018-04-18 10:51:11.556 plugin-container[4787:560184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524019871958	Marionette	INFO	Listening on port 60030
+1524019872024	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 10:51:12.640 plugin-container[4788:560259] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4788, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1524020411290	geckodriver	INFO	geckodriver 0.20.0
+1524020411297	geckodriver	INFO	Listening on 127.0.0.1:60349
+1524020412317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.vlSe0sPj0hmg"
+1524020412806	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:00:13.635 plugin-container[4816:563786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524020414160	Marionette	INFO	Listening on port 60360
+1524020414196	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:00:14.740 plugin-container[4817:563853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524020418131	geckodriver::marionette	ERROR	Failed to stop browser process
+1524020432028	geckodriver	INFO	geckodriver 0.20.0
+1524020432036	geckodriver	INFO	Listening on 127.0.0.1:60453
+1524020432054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.lOoP2QzeCcx3"
+1524020432688	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:00:33.498 plugin-container[4825:564174] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524020433900	Marionette	INFO	Listening on port 60462
+1524020433942	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:00:34.562 plugin-container[4826:564244] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524020460502	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524020460912	geckodriver::marionette	ERROR	Failed to stop browser process
+1524020644340	geckodriver	INFO	geckodriver 0.20.0
+1524020644347	geckodriver	INFO	Listening on 127.0.0.1:60627
+1524020645366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.dmuW4e5NC4E3"
+1524020645814	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:04:06.655 plugin-container[4843:565787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524020647060	Marionette	INFO	Listening on port 60638
+1524020647158	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:04:07.757 plugin-container[4844:565856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524020650693	geckodriver::marionette	ERROR	Failed to stop browser process
+1524020656088	geckodriver	INFO	geckodriver 0.20.0
+1524020656094	geckodriver	INFO	Listening on 127.0.0.1:60728
+1524020656106	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.1Axd5FAgRUCO"
+1524020656680	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:04:17.516 plugin-container[4851:566098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524020657906	Marionette	INFO	Listening on port 60737
+1524020658012	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:04:18.604 plugin-container[4852:566166] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524020680124	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524020680470	geckodriver::marionette	ERROR	Failed to stop browser process
+1524020858045	geckodriver	INFO	geckodriver 0.20.0
+1524020858054	geckodriver	INFO	Listening on 127.0.0.1:60834
+1524020858074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.bRVzb6OTPIIs"
+1524020858662	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:07:39.459 plugin-container[4868:567232] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524020859828	Marionette	INFO	Listening on port 60843
+1524020859856	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:07:40.501 plugin-container[4869:567301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-18 11:08:20.532 firefox-bin[4867:567133] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x11b21bee0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524020912171	geckodriver::marionette	ERROR	Failed to stop browser process
+1524021017810	geckodriver	INFO	geckodriver 0.20.0
+1524021017823	geckodriver	INFO	Listening on 127.0.0.1:60978
+1524021017855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.eEFF7kalycVA"
+1524021018452	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:10:19.298 plugin-container[4880:568290] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524021019660	Marionette	INFO	Listening on port 60987
+1524021019750	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:10:20.297 plugin-container[4881:568396] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-18 11:10:30.567 firefox-bin[4879:568188] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x1129b9340 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript error: https://ss0.bdstatic.com/5LMZfyabBhJ3otebn9fN2DJv/passApi/js/uni_confirmWidget_tangram_ab30168.js, line 7: ReferenceError: event is not defined
+2018-04-18 11:10:37.438 firefox-bin[4879:568188] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x1129b9340 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524021039151	geckodriver::marionette	ERROR	Failed to stop browser process
+1524021075408	geckodriver	INFO	geckodriver 0.20.0
+1524021075422	geckodriver	INFO	Listening on 127.0.0.1:61114
+1524021075444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.KzQCyT1w9zv8"
+1524021076026	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:11:16.865 plugin-container[4893:569035] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524021077238	Marionette	INFO	Listening on port 61123
+1524021077326	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:11:17.839 plugin-container[4894:569108] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-18 11:11:48.910 firefox-bin[4892:568929] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x11ceb5ca0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript error: https://ss0.bdstatic.com/5LMZfyabBhJ3otebn9fN2DJv/passApi/js/uni_confirmWidget_tangram_ab30168.js, line 7: ReferenceError: event is not defined
+2018-04-18 11:11:56.016 firefox-bin[4892:568929] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x11ceb5ca0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1524021117142	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+2018-04-18 11:12:02.241 firefox-bin[4892:568929] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x11ceb5ca0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-04-18 11:12:10.344 firefox-bin[4892:568929] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x11ceb5ca0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1524021165576	geckodriver	INFO	geckodriver 0.20.0
+1524021165583	geckodriver	INFO	Listening on 127.0.0.1:61238
+1524021165596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/n8/vgcb26395xq8qjr6f8rdncsr0000gn/T/rust_mozprofile.rgxBZ7vE8olG"
+1524021166166	Marionette	INFO	Enabled via --marionette
+2018-04-18 11:12:47.008 plugin-container[4905:570314] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1524021167490	Marionette	INFO	Listening on port 61247
+1524021167594	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-18 11:12:48.094 plugin-container[4906:570388] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-18 11:12:50.486 firefox-bin[4904:570222] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x127d7b3a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-04-18 11:12:51.072 firefox-bin[4904:570222] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x127d7b3a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-04-18 11:12:55.759 firefox-bin[4904:570222] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x127d7b3a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-04-18 11:12:59.980 firefox-bin[4904:570222] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x127d7b3a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-04-18 11:13:00.080 firefox-bin[4904:570222] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : [self textInputContext]=0x127d7b3a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524021206315	geckodriver::marionette	ERROR	Failed to stop browser process
