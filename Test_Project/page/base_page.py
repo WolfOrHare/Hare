@@ -55,12 +55,14 @@ class BasePage(object):
 
     # 刷新
     def refresh(self):
+        
         self.selenium.refresh()
     # 返回
     def navigate_back(self):
         self.selenium.back()
     # 打开url
     def _selenium_get_url(self, url):
+
         try:
             self.selenium.get('about:blank')
             self.selenium.get(str(url))
@@ -71,6 +73,7 @@ class BasePage(object):
 
     # 目的是为了拼接地址
     def get_page_url(self):
+
         if not self.url:
             raise RuntimeError("no url been set")
         return self._get_url(self.url)
@@ -85,6 +88,7 @@ class BasePage(object):
         return "{0}{1}".format(self.base_url, format_url)
 
     def get_current_page_url(self):
+
         return self.selenium.current_url
 
     def get_page_title(self):
@@ -93,11 +97,12 @@ class BasePage(object):
     def get_cookie_value(self):
         return self.selenium.get_cookie('client_identity')['value']
 
-    # ---------------------------------------------------------------------------------------------------------------
+    # --------------------------------完成基本的url地址访问----------------------------------------------------
     '''判断某个元素是否被添加到了dom里并且可见，可见代表元素可显示且宽和高都大于0'''
-
+    # ------------------------@将方法会作为参数传递到截图方法确认是否报错----------------------------------------------
     @fail_on_screenshot
     def find_element_by_css(self, selector, wait_time=WAIT_TIME):
+
         return WebDriverWait(self.selenium, wait_time).until(
             expected.visibility_of_element_located((By.CSS_SELECTOR, selector)))
 

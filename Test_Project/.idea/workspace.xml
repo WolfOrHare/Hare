@@ -42,17 +42,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base_page.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base_page.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page/base_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+            <state relative-caret-position="265">
+              <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_conn_db.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_conn_db.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_case/test_conn_db.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="142">
@@ -132,8 +132,8 @@
         <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/test_case/web_test_case/test_register.py" />
         <option value="$PROJECT_DIR$/page/index_page.py" />
-        <option value="$PROJECT_DIR$/page/base_page.py" />
         <option value="$PROJECT_DIR$/test_case/test_conn_db.py" />
+        <option value="$PROJECT_DIR$/page/base_page.py" />
       </list>
     </option>
   </component>
@@ -678,14 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/base_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/test_conn_db.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
@@ -700,6 +692,14 @@
             <marker date="1523976700000" expanded="true" signature="1007:1054" ph="delete from " />
             <marker date="1523976700000" expanded="true" signature="1116:1143" ph="select * fro... send_sms_code" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
