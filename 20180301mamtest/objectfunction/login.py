@@ -19,7 +19,7 @@ class LoginMAM(LoginPage):
         loginpage = LoginPage(self.driver)
         loginpage.type_user("mam")
         loginpage.type_password("mam")
-        loginpage.type_password("qwe123!@#2018")
+        # loginpage.type_password("")
         loginpage.login_click()
         # 参数化登陆用户名密码
         # dir = os.path.dirname(os.path.abspath('.')) + '/parameters/'
